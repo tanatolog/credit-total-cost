@@ -41,6 +41,7 @@ Run the application `PSK.exe`
 ## Technologies / Технологии
 - C#  
 - .NET Framework 4.7.2
+- Windows Forms
 
 ## Application structure / Структура приложения
 Приложение состоит из 6 модулей / The application consists of 6 modules:
