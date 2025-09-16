@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Rounding
+public class Rounding
 {
     public static decimal RoundUp(decimal number, int places) // округляет число вверх до нужного знака
     {

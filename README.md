@@ -18,13 +18,13 @@ It reflects the bank’s effective annual yield, taking into account not only th
 
 ### Русский
 - Корректный расчет полной стоимости аннуитетного кредита с переменным платежным периодом
-- Вывод графика погашения кредита
+- Расчет графика погашения кредита с учетом выходных и праздничных дней
 - Расчет ежемесячного платежа
 - Расчет переплаты
 
 ### English
 - Accurate calculation of the total cost of an annuity loan with a variable payment period
-- Loan repayment schedule generation
+- Calculation of the loan repayment schedule, taking into account weekends and holidays
 - Monthly payment calculation
 - Total loan overpayment calculation
 
