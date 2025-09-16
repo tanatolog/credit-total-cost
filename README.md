@@ -12,7 +12,22 @@ Application for calculating the total cost of an annuity loan with a variable pa
 
 The total loan cost (APR-equivalent) is used to estimate the real expenses of obtaining a loan and to compare different credit offers.  
 
-It reflects the bank’s effective annual yield, taking into account not only the nominal interest rate but also all additional fees and charges.  
+It reflects the bank’s effective annual yield, taking into account not only the nominal interest rate but also all additional fees and charges.
+
+## Структура проекта / Project structure
+```
+credit-total-cost/
+├── .gitignore
+├── LICENSE
+├── README.md
+├── credit_total_cost.sln
+├── src/ - Исходный код приложения
+│   └── PSK/
+├── tests/ - Модульные тесты
+│   └── PSK_tests/
+└── images/ - Ресурсы изображений
+```
+
 
 ## Features / Возможности
 
