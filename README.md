@@ -1,7 +1,7 @@
 # Credit Total Cost
 
 ## Contents
-- [Описание](#русский)
+- [Description](#русский)
 - [Project structure](#структура-проекта--project-structure)
 - [Features](#features--возможности)
 - [Installation](#installation--установка)
