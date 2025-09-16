@@ -17,10 +17,6 @@ It reflects the bank’s effective annual yield, taking into account not only th
 ## Структура проекта / Project structure
 ```
 credit-total-cost/
-├── .gitignore
-├── LICENSE
-├── README.md
-├── credit_total_cost.sln
 ├── src/ - Исходный код приложения
 │   └── PSK/
 ├── tests/ - Модульные тесты
