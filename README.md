@@ -1,5 +1,15 @@
 # Credit Total Cost
 
+## Contents
+- [Описание](#русский)
+- [Project structure](#структура-проекта--project-structure)
+- [Features](#features--возможности)
+- [Installation](#installation--установка)
+- [Usage](#usage--использование)
+- [Technologies](#technologies--технологии)
+- [Application structure](#application-structure--структура-приложения)
+- [License](#license)
+
 ### Русский
 Приложение для расчета полной стоимости аннуитетного кредита с переменным платежным периодом, в соответствии с указаниями ЦБ РФ.
 
@@ -17,13 +27,10 @@ It reflects the bank’s effective annual yield, taking into account not only th
 ## Структура проекта / Project structure
 ```
 credit-total-cost/
-├── src/ - Исходный код приложения
-│   └── PSK/
-├── tests/ - Модульные тесты
-│   └── PSK_tests/
-└── images/ - Ресурсы изображений
+├── src/        # Исходный код приложения (PSK)
+├── tests/      # Модульные тесты (PSK_tests)
+└── images/     # Ресурсы изображений
 ```
-
 
 ## Features / Возможности
 
@@ -38,8 +45,6 @@ credit-total-cost/
 - Calculation of the loan repayment schedule, taking into account weekends and holidays
 - Monthly payment calculation
 - Total loan overpayment calculation
-
-### English
 
 ## Installation / Установка
 
