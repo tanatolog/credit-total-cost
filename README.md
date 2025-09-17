@@ -29,9 +29,9 @@ Application for calculating the total cost of an annuity loan with a variable pa
 ## Структура проекта / Project structure
 ```
 credit-total-cost/
-├── src/        # Исходный код приложения (PSK)
-├── tests/      # Модульные тесты (PSK_tests)
-└── images/     # Ресурсы изображений
+├── src/        # исходный код приложения (PSK)
+├── tests/      # модульные тесты (PSK_tests)
+└── images/     # ресурсы изображений
 ```
 
 ## Installation / Установка
