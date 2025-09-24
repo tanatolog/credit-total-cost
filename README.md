@@ -9,7 +9,7 @@ Application for calculating the total cost of an annuity loan with a variable pa
 - [Installation](#installation--установка)
 - [Usage](#usage--использование)
 - [Technologies](#technologies--технологии)
-- [Full documentation](#full-documentation--расширенная-документация)
+- [Full documentation](#technical-documentation--техническая-документация)
 - [License](#license)
 
 ## Features / Возможности
@@ -59,7 +59,7 @@ Run the application `PSK.exe`
 - .NET Framework 4.7.2
 - Windows Forms
 
-## Full documentation / Расширенная документация
+## Technical documentation / Техническая документация
 
 ### Русский
 Полная стоимость кредита (ПСК) используется для оценки затрат, связанных с получением кредита, и для сравнения различных кредитных предложений. ПСК представляет собой число выраженное в процентах годовых и отражает фактическую доходность банка. Оно учитывает не только номинальную процентную ставку, но и все дополнительные затраты, комиссии и платежи, связанные с кредитом.
