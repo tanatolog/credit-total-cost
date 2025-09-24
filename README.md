@@ -9,7 +9,7 @@ Application for calculating the total cost of an annuity loan with a variable pa
 - [Installation](#installation--установка)
 - [Usage](#usage--использование)
 - [Technologies](#technologies--технологии)
-- [Full documentation](#technical-documentation--техническая-документация)
+- [Technical documentation](#technical-documentation--техническая-документация)
 - [License](#license)
 
 ## Features / Возможности
